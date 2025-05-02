@@ -1,4 +1,4 @@
 # apna-college-demo
 this is my first git repo.
-<br>
+<br
 author - aditya sharma
